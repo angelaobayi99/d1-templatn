@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "d1-templatn",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "97d8c302-67b4-4bb1-8b72-97bbdf1bcc0b",
+      "database_name": "www.ubet.com"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
